@@ -45,9 +45,9 @@ Build Order & Epics (must follow exactly this sequence):
 Epic 0 – Project Skeleton & Environment (1–2 weeks)
 Goal: Working repo, login screen, deployable boilerplate
 
-[ ] Create GitHub repository (private until launch)
-[ ] Initialize Next.js 15 project with TypeScript & Tailwind (npx create-next-app@latest)
-[ ] Install & configure shadcn/ui (npx shadcn-ui@latest init)
+[X] Create GitHub repository (private until launch)
+[X] Initialize Next.js 15 project with TypeScript & Tailwind (npx create-next-app@latest)
+[X] Install & configure shadcn/ui (npx shadcn-ui@latest init)
 [ ] Add basic layout: Header (logo + Login button), Footer (simple text)
 [ ] Deploy to Vercel (connect GitHub repo)
 [ ] Set environment variables template (.env.example)
