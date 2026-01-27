@@ -48,7 +48,7 @@ Goal: Working repo, login screen, deployable boilerplate
 [X] Create GitHub repository (private until launch)
 [X] Initialize Next.js 15 project with TypeScript & Tailwind (npx create-next-app@latest)
 [X] Install & configure shadcn/ui (npx shadcn-ui@latest init)
-[ ] Add basic layout: Header (logo + Login button), Footer (simple text)
+[] Add basic layout: Header (logo + Login button), Footer (simple text)
 [ ] Deploy to Vercel (connect GitHub repo)
 [ ] Set environment variables template (.env.example)
 [ ] Add 404 page & global error boundary
