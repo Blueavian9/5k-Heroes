@@ -1,21 +1,15 @@
-MIT License
 
-Copyright (c) 2026 Cesar A Aguilar
+### How to Use This README Right Now
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Create/rename your repo (e.g. to `run-for-good` or keep `Ascot-Hills-5k-RUN-Challenge` renamed via GitHub Settings → Repository name).
+2. In the repo root → **Add file** → name it `README.md`
+3. Paste the content above → Commit with message: "Add initial README.md aligned with PRD"
+4. Also add `PRD.md` (paste our full refined PRD from previous messages) and `.env.example` (create with placeholders).
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Once done:
+- Reply here: “Repo setup complete – name is Blueavian9/RunForGood
+- We’ll immediately start **Epic 0** with the first concrete code/files (e.g. layout.tsx, Header component).
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This README gives your repo instant professionalism, clarity, and keeps you locked to the PRD plan.
+
+Ready when you are!
