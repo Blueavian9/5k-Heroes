@@ -12,7 +12,7 @@ No speculative features; only MVP essentials.
 
 
 Project Overview
-Product Name (working): RunForGood
+Product Name (working): 5k-heroes
 One-sentence goal: Let runners create 5K fundraising pages linked to real charities, collect donations via Stripe, and show real-time progress + proof of run.
 MVP success definition (must-have by Sep 26, 2026):
 

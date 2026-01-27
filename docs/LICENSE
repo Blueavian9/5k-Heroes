@@ -2,12 +2,12 @@
 ### How to Use This README Right Now
 
 1. Create/rename your repo (e.g. to '5k-Heroes' renamed via GitHub Settings → Repository name).
-2. In the repo root → **Blueavian9/5k-Heroes** → name it `README.md`
+2. In the repo root → **Blueavian9/5k-heroes** → name it `README.md`
 3. Paste the content above → Commit with message: "Add initial README.md aligned with PRD"
 4. Also add `PRD.md` (paste our full refined PRD from previous messages) and `.env.example` (create with placeholders).
 
 Once done:
-- Reply here: “Repo setup complete – name is Blueavian9/5k-Heroes
+- Reply here: “Repo setup complete – name is Blueavian9/5k-heroes
 - We’ll immediately start **Epic 0** with the first concrete code/files (e.g. layout.tsx, Header component).
 
 This README gives your repo instant professionalism, clarity, and keeps you locked to the PRD plan.
