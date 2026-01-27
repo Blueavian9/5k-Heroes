@@ -6,7 +6,7 @@ Create personal or team fundraising campaigns linked to verified charities, coll
 **MVP Launch Target:** September 26, 2026  
 **Current Phase:** Epic 0 – Project Skeleton (starting now)
 
-## What is RunForGood?
+## What is 5k-Heroes?
 
 A simple, modern platform where:
 - Runners/walkers create 5K campaigns for approved charities
