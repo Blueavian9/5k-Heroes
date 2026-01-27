@@ -1,4 +1,4 @@
-# RunForGood – 5K Fundraising Platform
+# 5k-Heroes – Fundraising Platform
 
 **Turn your 5K run/walk into real impact.**  
 Create personal or team fundraising campaigns linked to verified charities, collect donations securely via Stripe, show real-time progress, and share your story + run proof.
