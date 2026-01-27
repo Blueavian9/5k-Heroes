@@ -1,4 +1,4 @@
-# 5k-Heroes – Fundraising Platform
+# 5k-heroes – Fundraising Platform
 
 **Turn your 5K run/walk into real impact.**  
 Create personal or team fundraising campaigns linked to verified charities, collect donations securely via Stripe, show real-time progress, and share your story + run proof.
@@ -6,7 +6,7 @@ Create personal or team fundraising campaigns linked to verified charities, coll
 **MVP Launch Target:** September 26, 2026  
 **Current Phase:** Epic 0 – Project Skeleton (starting now)
 
-## What is 5k-Heroes?
+## What is 5k-heroes?
 
 A simple, modern platform where:
 - Runners/walkers create 5K campaigns for approved charities
