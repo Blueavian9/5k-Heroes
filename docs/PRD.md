@@ -50,7 +50,7 @@ Goal: Working repo, login screen, deployable boilerplate
 [X] Install & configure shadcn/ui (npx shadcn-ui@latest init)
 [X] Add basic layout: Header (logo + Login button), Footer (simple text)
 [X] Deploy to Vercel (connect GitHub repo)
-[ ] Set environment variables template (.env.example)
+[X] Set environment variables template (.env.example)
 [X] Add 404 page & global error boundary
 [X] Commit & push – first green build on Vercel
 

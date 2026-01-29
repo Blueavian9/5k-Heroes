@@ -32,5 +32,5 @@ Built as a solo/small-team MVP following a strict Product Requirements Document 
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/Blueavian9/run-for-good.git
+   git clone https://github.com/Blueavian9/5k-heroes.git
    cd run-for-good
